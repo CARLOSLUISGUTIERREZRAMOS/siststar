@@ -1,0 +1,468 @@
+[2019-06-07 08:34:43.000000 191.98.147.210 - 1797742 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T08:34:42-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098547"></UniqueID><Verification>
+                            <Email>angel.chinchay0915@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T13:34:43+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 08:35:01.000000 191.98.147.210 - 1797731 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T08:35:00-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098548"></UniqueID><Verification>
+                            <Email>adonnelly333@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T13:35:01+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 08:35:01.000000 191.98.147.210 - 1797731 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T08:35:00-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098549"></UniqueID><Verification>
+                            <Email>adonnelly333@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T13:35:01+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 08:41:34.000000 191.98.147.210 - 1797736 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T08:41:34-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098542"></UniqueID><Verification>
+                            <Email>laureanoelder@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T13:41:34+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:41:31.000000 191.98.147.210 - 1797728 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:41:31-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098567"></UniqueID><Verification>
+                            <Email>delaguilatravel@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:41:31+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:53:49.000000 191.98.147.210 - 1797729 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:53:49-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098569"></UniqueID><Verification>
+                            <Email>ISARAVIA@VPN-SOLUTIONS.COM.PE</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:53:49+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098569</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>TUESTA MENDOZA/JUAN </B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI48614079           OFFICE ID: PE-15753-0                    RUC           : 20554385100          TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098569BOOKING REF./CODIGO DE RESERVA: C1/<B>KUGURP</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>LIMA              </B>2I3115 X  <B>7JUN  1310</B>  XOW02                         1P   OK <B>  TARAPOTO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797729</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: LIM 2I TPP 74.00USD74.00END (ADT)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       74.00TAX/IMPUESTOS   : USD       13.32PE       11.53HWTOTAL           : USD       98.85</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019  9:53</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 09:53:54.000000 191.98.147.210 - 1797728 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:53:54-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098567"></UniqueID><Verification>
+                            <Email>delaguilatravel@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:53:54+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:54:21.000000 191.98.147.210 - 1797716 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:54:21-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098572"></UniqueID><Verification>
+                            <Email>jucequba@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:54:21+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:54:56.000000 191.98.147.210 - 1797783 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:54:55-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098557"></UniqueID><Verification>
+                            <Email>consuelobernal25@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:54:56+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:55:00.000000 191.98.147.210 - 1797782 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:55:00-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098558"></UniqueID><Verification>
+                            <Email>elvamurocajo239@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:55:00+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 09:55:00.000000 191.98.147.210 - 1797782 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T09:55:00-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098559"></UniqueID><Verification>
+                            <Email>elvamurocajo239@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T14:55:00+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 11:07:06.000000 132.251.0.130 - 1797842 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:07:05-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098597"></UniqueID><Verification>
+                            <Email>booking@visiones.org</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:07:06+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 11:07:54.000000 132.251.0.130 - 1797822 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:07:54-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098598"></UniqueID><Verification>
+                            <Email>martinlopezpatricia@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:07:54+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 11:07:54.000000 132.251.0.130 - 1797822 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:07:54-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098599"></UniqueID><Verification>
+                            <Email>martinlopezpatricia@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:07:54+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 11:08:39.000000 132.251.0.130 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:08:39-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098600"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:08:39+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098600</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>CHAMAN CABRERA/SARIT</B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI40602155           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098600BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           1P   OK <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           1P   OK <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 15.00 2I CIX 15.00USD30.00END (ADT)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       30.00TAX/IMPUESTOS   : USD        5.40PE       16.90HWTOTAL           : USD       52.30</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 11:08</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 11:08:39.000000 132.251.0.130 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:08:39-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098601"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:08:39+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098601</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>ALLCA CHAMAN/CAMILA </B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI77607891           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098601BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           1P   OK <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           1P   OK <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 15.00 2I CIX 15.00USD30.00END (CHD)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       30.00TAX/IMPUESTOS   : USD        5.40PE       16.90HWTOTAL           : USD       52.30</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 11:08</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 11:08:39.000000 132.251.0.130 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T11:08:39-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098602"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T16:08:39+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098602</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>ALLCA CHAMAN/CATALIN</B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI90942286           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098602BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           0K   NS <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           0K   NS <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 1.50 2I CIX 1.50USD3.00END (INF)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD        3.00TAX/IMPUESTOS   : USD        0.54PE       16.90HWTOTAL           : USD       20.44</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 11:08</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 12:05:35.000000 191.98.147.210 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:05:35-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098600"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:05:35+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098600</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>CHAMAN CABRERA/SARIT</B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI40602155           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098600BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           1P   OK <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           1P   OK <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 15.00 2I CIX 15.00USD30.00END (ADT)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       30.00TAX/IMPUESTOS   : USD        5.40PE       16.90HWTOTAL           : USD       52.30</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 12:05</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 12:05:35.000000 191.98.147.210 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:05:35-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098601"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:05:35+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098601</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>ALLCA CHAMAN/CAMILA </B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI77607891           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098601BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           1P   OK <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           1P   OK <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 15.00 2I CIX 15.00USD30.00END (CHD)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       30.00TAX/IMPUESTOS   : USD        5.40PE       16.90HWTOTAL           : USD       52.30</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 12:05</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 12:05:35.000000 191.98.147.210 - 1797821 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:05:35-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098602"></UniqueID><Verification>
+                            <Email>SRTALEONOR1@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:05:35+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098602</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>ALLCA CHAMAN/CATALIN</B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI90942286           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098602BOOKING REF./CODIGO DE RESERVA: C1/<B>FSZUJX</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>CHICLAYO          </B>2I2226 R  <B>6OCT  2235</B>  ROW                           0K   NS <B>  LIMA              </B>  <B>LIMA              </B>2I2225 R  <B>10OCT 2025</B>  ROW                           0K   NS <B>  CHICLAYO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1797821</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: CIX 2I LIM 1.50 2I CIX 1.50USD3.00END (INF)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD        3.00TAX/IMPUESTOS   : USD        0.54PE       16.90HWTOTAL           : USD       20.44</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019 12:05</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 12:05:41.000000 191.98.147.210 - 1797789 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:05:40-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098627"></UniqueID><Verification>
+                            <Email>rofra_08@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:05:41+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 12:13:38.000000 191.98.147.210 - 1797894 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:13:37-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098630"></UniqueID><Verification>
+                            <Email>Jead237@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:13:38+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 12:41:45.000000 191.98.147.210 - 1797809 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T12:41:45-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098643"></UniqueID><Verification>
+                            <Email>javdiamor@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T17:41:45+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:05:31.000000 191.98.147.210 - 1797890 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:05:31-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098650"></UniqueID><Verification>
+                            <Email>huamangc1@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:05:31+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:17:13.000000 191.98.147.210 - 1797858 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:17:12-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098655"></UniqueID><Verification>
+                            <Email>kasirigoinlam@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:17:13+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:17:56.000000 191.98.147.210 - 1797933 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:17:56-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098652"></UniqueID><Verification>
+                            <Email>julite07@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:17:56+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:17:57.000000 191.98.147.210 - 1797933 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:17:56-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098653"></UniqueID><Verification>
+                            <Email>julite07@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:17:57+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:17:57.000000 191.98.147.210 - 1797933 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:17:56-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098654"></UniqueID><Verification>
+                            <Email>julite07@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:17:57+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:29:18.000000 191.98.147.210 - 1797916 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:29:18-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098663"></UniqueID><Verification>
+                            <Email>juanmilope@yahoo.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:29:18+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 13:29:37.000000 191.98.147.210 - 1797910 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T13:29:36-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098664"></UniqueID><Verification>
+                            <Email>juanmilope@yahoo.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T18:29:37+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 14:51:36.000000 132.251.0.130 - 1797964 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T14:51:36-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098682"></UniqueID><Verification>
+                            <Email>jerssonramirezguerra@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T19:51:36+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 16:08:12.000000 132.251.0.130 - 1798032 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T16:08:11-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098710"></UniqueID><Verification>
+                            <Email>roncito87@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T21:08:12+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 16:29:37.000000 191.98.147.210 - 1797995 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T16:29:37-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098716"></UniqueID><Verification>
+                            <Email>delmore@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T21:29:37+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 17:06:55.000000 191.98.147.210 - 1798039 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T17:06:55-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098722"></UniqueID><Verification>
+                            <Email>mdiazb@uni.pe</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T22:06:55+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 17:06:55.000000 191.98.147.210 - 1798039 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T17:06:55-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098723"></UniqueID><Verification>
+                            <Email>mdiazb@uni.pe</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T22:06:55+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 17:07:14.000000 191.98.147.210 - 1798036 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T17:07:14-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098724"></UniqueID><Verification>
+                            <Email>COMPRAS@ELINSE.COM.PE</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T22:07:14+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201098724</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 07 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>MENDOZA/FELIX       </B> INTERNET, PERU                            FOID/D.IDENTIDAD: NI10010943           OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201098724BOOKING REF./CODIGO DE RESERVA: C1/<B>XXJHDG</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>LIMA              </B>2I 120 J  <B>11JUN 0620</B>  JOW                           1P   OK <B>  IQUITOS           </B>/**OPERATED BY PERUVIAN-P9**</PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : PAGO EFECTIVO  PE1798036</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: LIM 2I IQT 49.00USD49.00END (ADT)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       49.00TAX/IMPUESTOS   : USD        8.82PE       11.53HWTOTAL           : USD       69.35</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN  7 2019  5:07</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-07 17:44:18.000000 191.98.147.210 - 1798055 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T17:44:18-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098739"></UniqueID><Verification>
+                            <Email>pinedoirmar@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-07T22:44:18+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 21:19:10.000000 190.42.5.111 - 1798117 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T21:19:10-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098779"></UniqueID><Verification>
+                            <Email>olgabobadilla24@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-08T02:19:10+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 21:20:10.000000 190.42.5.111 - 1798138 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T21:20:10-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098780"></UniqueID><Verification>
+                            <Email>elizabeth.pastor@idevinternational.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-08T02:20:10+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 21:20:10.000000 190.42.5.111 - 1798138 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T21:20:10-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098781"></UniqueID><Verification>
+                            <Email>elizabeth.pastor@idevinternational.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-08T02:20:10+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 21:21:03.000000 190.42.5.111 - 1798169 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T21:21:03-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098782"></UniqueID><Verification>
+                            <Email>kaloan_22@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-08T02:21:03+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-07 21:21:03.000000 190.42.5.111 - 1798169 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-07T21:21:03-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201098783"></UniqueID><Verification>
+                            <Email>kaloan_22@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-08T02:21:03+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>

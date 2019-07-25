@@ -1,0 +1,84 @@
+.input-group input{
+	background: #ffffff !important;
+	cursor: pointer;
+	padding-left: 0;
+	padding-right:0;
+}
+.texto_ruc{
+	min-width: 124px;
+}
+.text_ruta{
+	min-width: 176px;
+}
+
+.texto_der {
+    text-align : right !important;
+}
+
+.texto_centro {
+    text-align: center !important;
+}
+
+.alinear_texto_centro{
+  text-align: center;   
+}
+
+.fila_numero {
+    text-align: right !important;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.red{
+    color: red;   
+}
+
+.cabecera{
+	margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 2px solid #d2d6de;
+    border-bottom: 2px solid #d2d6de;
+}
+
+table tfoot{
+	background-color: #ececec;
+}
+
+#detalle_transaccion .modal-content .panel-heading{
+	padding-top: 0;
+    padding-bottom: 0;
+    cursor: move;
+}
+#detalle_transaccion .modal-content .panel-heading button{
+    background: black;
+	margin-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+
+#detalle_transaccion .modal-content .panel-heading button span {
+	color: white;
+}
+
+#detalle_transaccion .modal-content .panel-heading span{
+	font-size: 23px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.btn-metodo-pago img:hover{
+	cursor: pointer;
+	margin-left: -7px; 
+	/*** aquÃ­ va la sombra ***/
+	-webkit-box-shadow: 0 0 5px #ff9800;
+	-moz-box-shadow: 0 0 5px #ff9800;
+	-ms-box-shadow: 0 0 5px #ff9800;
+	box-shadow: 0 0 5px #ff9800;
+}

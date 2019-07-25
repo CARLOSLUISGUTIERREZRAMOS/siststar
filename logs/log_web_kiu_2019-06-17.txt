@@ -1,0 +1,306 @@
+[2019-06-17 10:38:13.000000 190.42.5.111 - 1803224 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T10:38:13-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103511"></UniqueID><Verification>
+                            <Email>fiofar@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T15:38:13+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 10:39:08.000000 190.42.5.111 - 1803232 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T10:39:08-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103512"></UniqueID><Verification>
+                            <Email>juditfb@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T15:39:08+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 10:39:08.000000 190.42.5.111 - 1803232 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T10:39:08-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103513"></UniqueID><Verification>
+                            <Email>juditfb@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T15:39:08+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 11:40:30.000000 191.98.147.210 - 1803260 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T11:40:30-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103527"></UniqueID><Verification>
+                            <Email>JMGILTINEZ@GMAIL.COM</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?><KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T16:40:30+00:00" Target="Production" Version="3.0" SequenceNmbr="1">
+	<Success/>
+	<ItineraryInfo>
+		<Ticketing>
+			<TicketAdvisory><![CDATA[<HTML><HEAD><STYLE>.pnr-print-small {font-size: 8px;}.pnr-print-medium {font-size: 12px;}.pnr-print-big {font-size: 14px;}</STYLE></HEAD><BODY><PRE class="pnr-print-medium"> ELECTRONIC TICKET                          <IMG SRC="cid:imagen_324" ID_LOGO="324" >     PASSENGER ITINERARY RECEIPT              TICKET NBR: <B>1560201103527</B>     RECIBO DE ITINERARIO DE PASAJEROS        BOLETO NRO:  <B>INTERNET                      </B> ISSUE DATE/FECHA DE EMISION: 17 JUN 2019 INTERNET                         ISSUE AGENT/AGENTE EMISOR: LIM002IWW INTERNET                                       NAME/NOMBRE:  <B>GIL MARTINEZ/JOSE MA</B> INTERNET, PERU                            FOID/D.IDENTIDAD: PPPAJ154365          OFFICE ID: PE-15753-0                     TELEPHONE/TELEFONO: INTERNET                       MAIL INFO: INFO.RESERVAS@STARPERU.COM                                  ISSUING AIRLINE/LINEA AEREA EMISORA   : STAR UP S.A.ADDRESS/DIRECCION                     : AV. COMANDANTE ESPINAR 331 MIRAFLORES LIMA 18 PERURUC                                   : 20342868844                   TICKET NUMBER/NRO DE BOLETO           : 156-0201103527BOOKING REF./CODIGO DE RESERVA: C1/<B>VNTDRM</B>  FROM/TO           FLIGHT CL DATE  DEP   FARE BASIS      NVB    NVA    BAG  STDESDE/HACIA         VUELO  CL FECHA HORA  BASE TARIFARIA                EQP. ESTATUS  <B>LIMA              </B>2I3115 J  <B>25JUL 1220</B>  JOW                           1P   OK <B>  TARAPOTO          </B></PRE><PRE class="pnr-print-medium"></PRE><PRE class="small">AL MOMENTO DEL CHECK-IN DEBERA PRESENTAR UN DOCUMENTO OFICIAL DE IDENTIDAD CON FOTOGRAFIA: DNI VIGENTE, CEDULA<BR>DE IDENTIDAD, PASAPORTE. AT THE CHECK-IN PROCESS, PASSENGERS MUST SHOW AN OFFICIAL IDENTIFICATION DOCUMENT<BR>WITH PHOTO: VALID ID, IDENTITY CARD, PASSPORT.</PRE><PRE class="medium"></PRE><PRE class="pnr-print-medium">ENDORSEMENTS/ENDOSOS-RESTRICCIONES : NON END/NON REFTOUR CODE                          : FORM OF PAYMENT/FORMA DE PAGO      : MASTERCARD  XXXXXXXXXXXX8111/XXXX/Z</PRE><PRE class="pnr-print-medium">FARE CALC./CALCULO DE TARIFA: LIM 2I TPP 49.00USD49.00END (ADT)</PRE><PRE class="pnr-print-medium">AIR FARE/TARIFA : USD       49.00TAX/IMPUESTOS   : USD        8.82PE       11.53HWTOTAL           : USD       69.35</PRE><PRE class="pnr-print-medium"></PRE><PRE class="big"><B>             *  ESTE DOCUMENTO ES ACEPTADO TRIBUTARIAMENTE POR SUNAT  *</B></PRE><PRE class="medium"></PRE><PRE class="medium"><B>CONDICIONES TARIFARIAS Y DE TRANSPORTE</B></PRE><PRE class="small">PARA VUELOS OPERADOS POR STAR PERU:<BR>TODAS LAS TARIFAS ESTAN SUJETAS A CONDICIONES Y RESTRICCIONES, CONSULTE INGRESANDO A:<BR>HTTP://WWW.STARPERU.COM/ES/CONDICIONES-DE-CLASES-TARIFARIAS.HTML O LLAMANDO A NUESTRA CENTRAL TELEFONICA (511) 7059000<BR>CONSULTE LAS CONDICIONES DE ENDOSO Y POSTERGACION INGRESANDO A HTTP://WWW.STARPERU.COM/ES/ENDOSOS-Y-POSTERGACIONES.HTML<BR>CONSULTE LA POLITICA DE EXCESO DE EQUIPAJE INGRESANDO A HTTP://WWW.STARPERU.COM/ES/EXCESO-DE-EQUIPAJE.HTML,<BR>HTTP://WWW.STARPERU.COM/ES/EQUIPAJE-LIBRE-FACTURADO.HTML<BR>SIRVASE INFORMARNOS SI TIENE UN VUELO DE CONEXION NACIONAL O INTERNACIONAL. PRESENTARSE 2 HORAS ANTES EN EL AEROPUERTO.<BR>PARA VUELOS OPERADOS POR PERUVIAN AIRLINE:<BR>PARA CONSULTAR LAS CONDICIONES TARIFARIAS Y/O POLITICAS DE EQUIPAJE EN RUTAS OPERADAS POR PERUVIAN AIRLINE INGRESAR A:<BR>HTTP://WWW.STARPERU.COM/ES/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"></PRE><PRE class="medium"><B>PLEASE READ OUR FARE RESTRICTIONS AND TRANSPORTATION TERMS</B></PRE><PRE class="small">FOR FLIGHTS OPERATED BY STAR PERU:<BR>ALL FARES ARE SUBJECT TO CONDITIONS AND RESTRICTIONS, FOR DETAILS VISIT WWW.STARPERU.COM/EN/TARIFARIAS.HTML<BR>OR CONTACT OUR CALL CENTER (511)7059000. SEE TERMS OF ENDORSEMENT AND POSTPONEMENT AT WWW.STARPERU.COM/EN/EYP.HTML<BR>SEE EXCESS BAGGAGE POLICY AT WWW.STARPERU.COM/EN/EDE.HTML, WWW.STARPERU.COM/EN/ELF.HTML<BR>TELL US IF YOU HAVE A CONNECTION NATIONAL/INTERNATIONAL FLIGHT. YOU MUST CHECK IN AT THE AIRPORT 2 HOURS BEFORE DEPARTURE.<BR>FOR FLIGHTS OPERATED BY PERUVIAN AIRLINE:<BR>FARE CONDITIONS AND BAGGAGE POLICIES ON PERUVIAN AIRLINE FLIGHTS AT HTTP://WWW.STARPERU.COM/EN/CODIGO-COMPARTIDO-PERUVIAN.HTML</PRE><PRE class="medium"><HR>SEND BY AGENT LIM002IWW / JUN 17 2019 11:40</PRE></BODY></HTML>]]></TicketAdvisory>
+		</Ticketing>
+	</ItineraryInfo>
+</KIU_TravelItineraryRS>
+[2019-06-17 11:40:35.000000 191.98.147.210 - 1803267 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T11:40:35-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103522"></UniqueID><Verification>
+                            <Email>maidelson@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T16:40:35+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 11:58:34.000000 191.98.147.210 - 1803298 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T11:58:33-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103538"></UniqueID><Verification>
+                            <Email>k.nunez.izquierdo@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T16:58:34+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 12:46:26.000000 191.98.147.210 - 1803327 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T12:46:26-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103555"></UniqueID><Verification>
+                            <Email>garmag4@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T17:46:26+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 14:07:47.000000 190.42.5.111 - 1803362 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T14:07:47-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103589"></UniqueID><Verification>
+                            <Email>martinmori22@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T19:07:47+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:01:28.000000 191.98.147.210 - 1803399 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:01:28-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103617"></UniqueID><Verification>
+                            <Email>Nimaggy@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:01:28+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:01:28.000000 191.98.147.210 - 1803399 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:01:28-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103618"></UniqueID><Verification>
+                            <Email>Nimaggy@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:01:28+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:01:32.000000 191.98.147.210 - 1803393 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:01:32-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103616"></UniqueID><Verification>
+                            <Email>lizandroleveau@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:01:32+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:09:58.000000 191.98.147.210 - 1803408 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:09:58-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103622"></UniqueID><Verification>
+                            <Email>paulo.cordova.86@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:09:58+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:10:02.000000 191.98.147.210 - 1803406 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:10:02-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103621"></UniqueID><Verification>
+                            <Email>Viajesmundialesreserva2@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:10:02+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 15:47:01.000000 190.42.5.111 - 1803423 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T15:47:01-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103645"></UniqueID><Verification>
+                            <Email>zahirmustafa@yahoo.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T20:47:01+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 16:13:20.000000 190.42.5.111 - 1803461 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T16:13:20-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103662"></UniqueID><Verification>
+                            <Email>romu.beatriz@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T21:13:20+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 16:13:20.000000 190.42.5.111 - 1803461 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T16:13:20-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103663"></UniqueID><Verification>
+                            <Email>romu.beatriz@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T21:13:20+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 16:44:49.000000 191.98.147.210 - 1803086 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T16:44:48-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103681"></UniqueID><Verification>
+                            <Email>lovarc@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T21:44:49+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 16:44:49.000000 191.98.147.210 - 1803086 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T16:44:48-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103682"></UniqueID><Verification>
+                            <Email>lovarc@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T21:44:49+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 17:40:15.000000 191.98.147.210 - 1803509 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T17:40:15-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103716"></UniqueID><Verification>
+                            <Email>mbrenisoliva@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T22:40:15+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 17:40:19.000000 191.98.147.210 - 1803522 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T17:40:19-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103717"></UniqueID><Verification>
+                            <Email>Patricia.infante.espinoza@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T22:40:19+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 17:57:43.000000 191.98.147.210 - 1803522 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T17:57:43-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103717"></UniqueID><Verification>
+                            <Email>Patricia.infante.espinoza@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T22:57:43+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 17:57:57.000000 191.98.147.210 - 1803522 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T17:57:57-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103717"></UniqueID><Verification>
+                            <Email>Patricia.infante.espinoza@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-17T22:57:57+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 19:37:34.000000 190.42.5.111 - 1803570 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T19:37:34-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103756"></UniqueID><Verification>
+                            <Email>Yalileqt@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T00:37:34+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 19:45:48.000000 143.0.249.8 - 1802639 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T19:45:47-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103182"></UniqueID><Verification>
+                            <Email>rociofl-5@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T00:45:48+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 19:46:16.000000 143.0.249.8 - 1802639 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T19:46:16-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103182"></UniqueID><Verification>
+                            <Email>rociofl-5@hotmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T00:46:16+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 22:01:37.000000 190.42.5.111 - 1803619 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T22:01:37-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103791"></UniqueID><Verification>
+                            <Email>suptesanjorge@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T03:01:37+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 22:11:15.000000 190.42.5.111 - 1803625 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T22:11:15-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103794"></UniqueID><Verification>
+                            <Email>caroljunco@olanoholding.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T03:11:15+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 22:11:33.000000 190.42.5.111 - 1803643 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T22:11:33-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103795"></UniqueID><Verification>
+                            <Email>rtang.a@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T03:11:33+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 22:11:50.000000 190.42.5.111 - 1803644 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T22:11:50-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103796"></UniqueID><Verification>
+                            <Email>caroljunco@olanoholding.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T03:11:50+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>
+[2019-06-17 22:40:00.000000 190.42.5.111 - 1803684 ] [METODO: TravelItineraryReadRQ] 
+<?xml version="1.0" encoding="UTF-8"?>
+        <KIU_TravelItineraryReadRQ EchoToken="1" TimeStamp="2019-06-17T22:40:00-05:00" Target="Production" Version="3.0" SequenceNmbr="1" PrimaryLangID="en-us">
+	<POS>
+		<Source AgentSine="LIM002IWW" TerminalID="LIM002IX01"></Source>
+	</POS> <UniqueID Type="30" ID="1560201103809"></UniqueID><Verification>
+                            <Email>sergiogarcia.2212@gmail.com</Email> 
+                        </Verification></KIU_TravelItineraryReadRQ>
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_TravelItineraryRS EchoToken="1" TimeStamp="2019-06-18T03:40:00+00:00" Target="0" Version="3.0" SequenceNmbr="1"><Error><ErrorCode>11033</ErrorCode><ErrorMsg>Error at parameter Email.</ErrorMsg></Error></KIU_TravelItineraryRS>

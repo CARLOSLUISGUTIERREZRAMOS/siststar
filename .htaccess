@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+#  RewriteEngine On
+#  RewriteCond $1 !^(index.php|css|js|images|robots.txt) 
+#  RewriteBase /
+#
+#  RewriteCond %{REQUEST_URI} ^system.*
+#  RewriteRule ^(.*)$ /index.php?/$1 [NC,L,QSA]
+# 
+#  RewriteCond %{REQUEST_URI} ^application.*
+#  RewriteRule ^(.*)$ /index.php?/$1 [NC,L,QSA]
+# 
+#  RewriteCond %{REQUEST_FILENAME} !-f
+#  RewriteCond %{REQUEST_FILENAME} !-d
+#  RewriteRule ^(.*)$ /TestStarPanelV3/index.php?/$1 [NC,L,QSA]
+#
+#  AddDefaultCharset UTF-8
+RewriteEngine on 
+RewriteCond $1 !^(index.php|css|assets|js|json|img|pdf|uploads|fonts|robots.txt) 
+#RewriteRule ^(.*)$ /TestStarPanelV3/index.php/$1 [L]
+#RewriteRule ^(.*)$ /sistpanel/index.php/$1 [L]
+RewriteRule ^(.*)$ /siststar/index.php/$1 [L]
+
+</IfModule>

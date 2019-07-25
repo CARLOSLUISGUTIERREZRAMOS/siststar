@@ -1,0 +1,29 @@
+textarea.mod-card-back-title {
+    background: transparent;
+    border-radius: 3px;
+    box-shadow: none;
+    font-size: 20px;
+    line-height: 24px;
+    min-height: 24px;
+    padding: 4px 8px;
+    resize: none;
+    overflow: hidden;
+    display:block;
+    overflow-wrap: break-word;
+    width: 95%;
+}
+
+h2.timeline-header{
+    width: 95% !important;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.cabecera{
+    display: inline;
+    vertical-align: middle;
+    float: right;
+    margin-right: 15px;
+    margin-top:3px;
+}

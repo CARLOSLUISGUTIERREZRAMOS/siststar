@@ -1,0 +1,1087 @@
+[
+	{
+		"CodigoFareBase" : "ADFR",
+		"NombreFareBase" : "ADFR",
+		"CodigoClase" : "A",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AEOW01",
+		"NombreFareBase" : "AEOW01",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AEOW02",
+		"NombreFareBase" : "AEOW02",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AEOW03",
+		"NombreFareBase" : "AEOW03",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AEOW04",
+		"NombreFareBase" : "AEOW04",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AEOW05",
+		"NombreFareBase" : "AEOW05",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "AOW01",
+		"NombreFareBase" : "AOW01",
+		"CodigoClase" : "A",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "B2IRT01",
+		"NombreFareBase" : "B2IRT01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BATR01",
+		"NombreFareBase" : "BATR01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BATRT01",
+		"NombreFareBase" : "BATRT01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BEOW01",
+		"NombreFareBase" : "BEOW01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BERT01",
+		"NombreFareBase" : "BERT01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BERT02",
+		"NombreFareBase" : "BERT02",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BNETOW01",
+		"NombreFareBase" : "BNETOW01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BNETW01",
+		"NombreFareBase" : "BNETW01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BNETWO1",
+		"NombreFareBase" : "BNETWO1",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BNMRT03",
+		"NombreFareBase" : "BNMRT03",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BNOCRT01",
+		"NombreFareBase" : "BNOCRT01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BOUM01",
+		"NombreFareBase" : "BOUM01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMOW",
+		"NombreFareBase" : "BPROMOW",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "BPROMRT01",
+		"NombreFareBase" : "BPROMRT01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMRT02",
+		"NombreFareBase" : "BPROMRT02",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMRT03",
+		"NombreFareBase" : "BPROMRT03",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMRT04",
+		"NombreFareBase" : "BPROMRT04",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMRT05",
+		"NombreFareBase" : "BPROMRT05",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BPROMRT06",
+		"NombreFareBase" : "BPROMRT06",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BRPOMRT02",
+		"NombreFareBase" : "BRPOMRT02",
+		"CodigoClase" : "B",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BTBOW01",
+		"NombreFareBase" : "BTBOW01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "BTUMOW01",
+		"NombreFareBase" : "BTUMOW01",
+		"CodigoClase" : "B",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "DEOW01",
+		"NombreFareBase" : "DEOW01",
+		"CodigoClase" : "D",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "DEOW02",
+		"NombreFareBase" : "DEOW02",
+		"CodigoClase" : "D",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "DEOW03",
+		"NombreFareBase" : "DEOW03",
+		"CodigoClase" : "D",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "DNOCOW01",
+		"NombreFareBase" : "DNOCOW01",
+		"CodigoClase" : "D",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "DOW02",
+		"NombreFareBase" : "DOW02",
+		"CodigoClase" : "D",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EERT01 ",
+		"NombreFareBase" : "EERT01 ",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EERT02 ",
+		"NombreFareBase" : "EERT02 ",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EERT03",
+		"NombreFareBase" : "EERT03",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ELLWRT01",
+		"NombreFareBase" : "ELLWRT01",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EOW01",
+		"NombreFareBase" : "EOW01",
+		"CodigoClase" : "E",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EULWRT01",
+		"NombreFareBase" : "EULWRT01",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EXLWRT01",
+		"NombreFareBase" : "EXLWRT01",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "EZLWRT01",
+		"NombreFareBase" : "EZLWRT01",
+		"CodigoClase" : "E",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "HPROM01",
+		"NombreFareBase" : "HPROM01",
+		"CodigoClase" : "H",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT01",
+		"NombreFareBase" : "JERT01",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT02",
+		"NombreFareBase" : "JERT02",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT03",
+		"NombreFareBase" : "JERT03",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT04",
+		"NombreFareBase" : "JERT04",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT05",
+		"NombreFareBase" : "JERT05",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JERT06",
+		"NombreFareBase" : "JERT06",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "JPROMRT01",
+		"NombreFareBase" : "JPROMRT01",
+		"CodigoClase" : "J",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KGLWOW01",
+		"NombreFareBase" : "KGLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KHLWOW01",
+		"NombreFareBase" : "KHLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KKLWOW01",
+		"NombreFareBase" : "KKLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KNLWOW01",
+		"NombreFareBase" : "KNLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KOW01",
+		"NombreFareBase" : "KOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KOW02",
+		"NombreFareBase" : "KOW02",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KOW03",
+		"NombreFareBase" : "KOW03",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KTEST01",
+		"NombreFareBase" : "KTEST01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KVLWOW01",
+		"NombreFareBase" : "KVLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "KXLWOW01",
+		"NombreFareBase" : "KXLWOW01",
+		"CodigoClase" : "K",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LBLWOW01",
+		"NombreFareBase" : "LBLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LGLWOW01",
+		"NombreFareBase" : "LGLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LKLWOW01",
+		"NombreFareBase" : "LKLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LLLWOW01",
+		"NombreFareBase" : "LLLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LNLWOW01",
+		"NombreFareBase" : "LNLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LOW01",
+		"NombreFareBase" : "LOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LOW02",
+		"NombreFareBase" : "LOW02",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LOW03",
+		"NombreFareBase" : "LOW03",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LOW04",
+		"NombreFareBase" : "LOW04",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "LQLWOW01",
+		"NombreFareBase" : "LQLWOW01",
+		"CodigoClase" : "L",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "M01",
+		"NombreFareBase" : "M01",
+		"CodigoClase" : "M",
+		"TipoViaje" : "",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "MCNX01",
+		"NombreFareBase" : "MCNX01",
+		"CodigoClase" : "M",
+		"TipoViaje" : "",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "MDESPRT01",
+		"NombreFareBase" : "MDESPRT01",
+		"CodigoClase" : "M",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "MDESPRT1",
+		"NombreFareBase" : "MDESPRT1",
+		"CodigoClase" : "M",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "MERT01",
+		"NombreFareBase" : "MERT01",
+		"CodigoClase" : "M",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "MERT02 ",
+		"NombreFareBase" : "MERT02 ",
+		"CodigoClase" : "M",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NKLWOW01",
+		"NombreFareBase" : "NKLWOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NLLWOW01",
+		"NombreFareBase" : "NLLWOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NOW01",
+		"NombreFareBase" : "NOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NOW02",
+		"NombreFareBase" : "NOW02",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NOW03",
+		"NombreFareBase" : "NOW03",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NOW04",
+		"NombreFareBase" : "NOW04",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NOW05",
+		"NombreFareBase" : "NOW05",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NTLWOW01",
+		"NombreFareBase" : "NTLWOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NULWOW01",
+		"NombreFareBase" : "NULWOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "NZLWOW01",
+		"NombreFareBase" : "NZLWOW01",
+		"CodigoClase" : "N",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OEOW01",
+		"NombreFareBase" : "OEOW01",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OEOW02",
+		"NombreFareBase" : "OEOW02",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OEOW03",
+		"NombreFareBase" : "OEOW03",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OEOW04",
+		"NombreFareBase" : "OEOW04",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OOW02",
+		"NombreFareBase" : "OOW02",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "OTUMOW01",
+		"NombreFareBase" : "OTUMOW01",
+		"CodigoClase" : "O",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "PERT01",
+		"NombreFareBase" : "PERT01",
+		"CodigoClase" : "P",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "PROMRT01",
+		"NombreFareBase" : "PROMRT01",
+		"CodigoClase" : "P",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "PTUMRT01",
+		"NombreFareBase" : "PTUMRT01",
+		"CodigoClase" : "P",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QER01",
+		"NombreFareBase" : "QER01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QERT01 ",
+		"NombreFareBase" : "QERT01 ",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QERT02",
+		"NombreFareBase" : "QERT02  ",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QKLWRT01",
+		"NombreFareBase" : "QKLWRT01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QLLWRT01",
+		"NombreFareBase" : "QLLWRT01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QQLWRT01",
+		"NombreFareBase" : "QQLWRT01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QRT01",
+		"NombreFareBase" : "QRT01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "QZLWRT01",
+		"NombreFareBase" : "QZLWRT01",
+		"CodigoClase" : "Q",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW01",
+		"NombreFareBase" : "REOW01",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW02",
+		"NombreFareBase" : "REOW02",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW03",
+		"NombreFareBase" : "REOW03",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW04",
+		"NombreFareBase" : "REOW04",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW05",
+		"NombreFareBase" : "REOW05",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "REOW06",
+		"NombreFareBase" : "REOW06",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ROW01",
+		"NombreFareBase" : "ROW01",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ROW02",
+		"NombreFareBase" : "ROW02",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ROW03",
+		"NombreFareBase" : "ROW03",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ROW04",
+		"NombreFareBase" : "ROW04",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ROW05",
+		"NombreFareBase" : "ROW05",
+		"CodigoClase" : "R",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "SERT01",
+		"NombreFareBase" : "SERT01",
+		"CodigoClase" : "S",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "SITRT01",
+		"NombreFareBase" : "SITRT01",
+		"CodigoClase" : "S",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 0
+	},
+	{
+		"CodigoFareBase" : "SNETOW01",
+		"NombreFareBase" : "SNETOW01",
+		"CodigoClase" : "S",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "SSPAYOW1",
+		"NombreFareBase" : "SSPAYOW1",
+		"CodigoClase" : "S",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VEOW01",
+		"NombreFareBase" : "VEOW01",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VEOW02",
+		"NombreFareBase" : "VEOW02",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VEOW04",
+		"NombreFareBase" : "VEOW04",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VEOW05",
+		"NombreFareBase" : "VEOW05",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VOW01",
+		"NombreFareBase" : "VOW01",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VOW010",
+		"NombreFareBase" : "VOW010",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VOW02",
+		"NombreFareBase" : "VOW02",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VOW03",
+		"NombreFareBase" : "VOW03",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "VOW04",
+		"NombreFareBase" : "VOW04",
+		"CodigoClase" : "V",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WERT01 ",
+		"NombreFareBase" : "WERT01 ",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WERT02",
+		"NombreFareBase" : "WERT02",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WGLWRT01",
+		"NombreFareBase" : "WGLWRT01",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WKLWRT01",
+		"NombreFareBase" : "WKLWRT01",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WQLWRT01",
+		"NombreFareBase" : "WQLWRT01",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WRLWRT01",
+		"NombreFareBase" : "WRLWRT01",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "WRT01",
+		"NombreFareBase" : "WRT01",
+		"CodigoClase" : "W",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XEOW01",
+		"NombreFareBase" : "XEOW01",
+		"CodigoClase" : "X",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XERT01 ",
+		"NombreFareBase" : "XERT01 ",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XERT02 ",
+		"NombreFareBase" : "XERT02 ",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XGLWRT01",
+		"NombreFareBase" : "XGLWRT01",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XHLWRT01",
+		"NombreFareBase" : "XHLWRT01",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XNLWRT01",
+		"NombreFareBase" : "XNLWRT01",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XRT03",
+		"NombreFareBase" : "XRT03",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "XXLWRT01",
+		"NombreFareBase" : "XXLWRT01",
+		"CodigoClase" : "X",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YGLWOW01",
+		"NombreFareBase" : "YGLWOW01",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YOW01",
+		"NombreFareBase" : "YOW01",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YOW02",
+		"NombreFareBase" : "YOW02",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YTLWOW01",
+		"NombreFareBase" : "YTLWOW01",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YYLWOW01",
+		"NombreFareBase" : "YYLWOW01",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "YZLWOW01",
+		"NombreFareBase" : "YZLWOW01",
+		"CodigoClase" : "Y",
+		"TipoViaje" : "O",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZERT01",
+		"NombreFareBase" : "ZERT01",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZERT02",
+		"NombreFareBase" : "ZERT02",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZERT03",
+		"NombreFareBase" : "ZERT03",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZERT04",
+		"NombreFareBase" : "ZERT04",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZPROMRT01",
+		"NombreFareBase" : "ZPROMRT01",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZPROMRT02",
+		"NombreFareBase" : "ZPROMRT02",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	},
+	{
+		"CodigoFareBase" : "ZPROMRT03",
+		"NombreFareBase" : "ZPROMRT03",
+		"CodigoClase" : "Z",
+		"TipoViaje" : "R",
+		"EstadoRegistro" : 1
+	}
+]

@@ -1,0 +1,28 @@
+h1 { font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+     font-size: 38px;
+     font-weight: bold; 
+     color: rgb(243, 168, 1);
+}
+
+
+.calibri { 
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+         color: rgb(89, 89, 89);
+        
+}
+.CeldaNombres { 
+    border-spacing: 0;
+    border-collapse: collapse;
+        padding:0; margin:0;
+	text-align: center;
+            margin : 0 0 0 0;
+}
+table{
+   border-collapse: collapse;
+   border: solid black 0px;
+    	border-spacing: 0px;
+}
+th, td {
+    padding: 0;
+    border: solid black 0px;
+}

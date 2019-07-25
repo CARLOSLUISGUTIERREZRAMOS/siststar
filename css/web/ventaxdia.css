@@ -1,0 +1,19 @@
+#tabla-ventas>tbody>tr.head>th{
+    text-align: center;
+}
+
+table#tabla-ventas.table tbody tr.t{
+	background-color: #f9f9f900;
+}
+
+table#tabla-ventas.table tbody tr.f{
+	background-color: #f9f9f94d;
+}
+
+table#tabla-ventas.table tbody tr td.h{
+	text-align: center;
+}
+
+table#tabla-ventas.table tbody tr td.n{
+	text-align: right;
+}

@@ -1,0 +1,24 @@
+#input--cc.creditcard-visa:before {
+	position: absolute;
+	font-family: 'FontAwesome';
+	top: 0px;
+	left: 6px;
+	content: "\f09d"; /*fa fa-credit-card*/
+	color:#e7c733f7;
+	font-size: 1.5em;
+}
+#input--cc {
+    position: relative;
+}
+#input--cc input {
+    padding-left: 33px;
+}
+a img:hover{
+	cursor: pointer;
+	margin-left: -7px; 
+	/*** aquí va la sombra ***/
+	-webkit-box-shadow: 0 0 5px #ff9800;
+	-moz-box-shadow: 0 0 5px #ff9800;
+	-ms-box-shadow: 0 0 5px #ff9800;
+	box-shadow: 0 0 5px #ff9800;
+}

@@ -1,0 +1,555 @@
+#fondo_starpanel{
+	background: url(../img/avion.jpg) no-repeat center center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+#fondo{
+    background: none !important;
+}
+
+#boton_iniciar{
+    font-size: 13pt;
+}
+
+#tipo_letra{
+    font-size: 10pt;
+}
+
+#subrayado{
+    text-decoration: underline;
+}
+
+.color{
+    color:white;
+}
+
+.input_numero{
+  width: 90px !important;
+}
+.input_numero0{
+  width: 95px !important;
+}
+
+.input_numero1{
+  width: 140px !important;
+}
+
+.input_numero2{
+  width: 200px !important;
+}
+
+.input_numero3{
+  width: 195px !important;
+}
+
+.input_numero4{
+  width: 160px !important;
+}
+
+.numero_serie{
+  width: 60px !important;
+}
+
+.numero_factura{
+  width: 80px !important;
+}
+
+.ancho_columna0{
+ width: 100px !important;
+}
+
+.ancho_columna{
+  width: 120px !important;
+}
+
+.ancho_columna1{
+  width: 115px !important;
+}
+
+.ancho_columna2{
+  width: 175px !important;
+}
+
+.ancho_columna4{
+  width: 125px !important;
+}
+
+.ancho_columna5{
+  width: 130px !important;
+}
+
+.ancho_columna6{
+  width: 185px !important;
+}
+
+.ancho_columna7{
+  width: 245px !important;
+}
+
+.ancho_columna8{
+  width: 130px !important;
+}
+
+.ancho_columna9{
+  width: 230px !important;
+}
+
+.ancho_columna10{
+  width: 195px;
+}
+
+.ancho_columna11{
+  width: 190px;
+}
+
+.ancho_columna15{
+  width: 200px;
+}
+
+.ancho_columna16{
+  width: 200px !important;
+}
+
+.ancho_combo{
+  width: 160px !important;
+}
+
+.ancho_combo2{
+  width: 150px !important;
+}
+
+.ancho_combo3{
+  width: 170px !important;
+}
+
+.ancho_combo4{
+  width: 210px !important; 
+}
+
+.ancho_combo6{
+  width: 188px !important; 
+ 
+}
+
+.ancho_columna3{
+  width: 190px !important;
+}
+
+.ancho_columna5{
+  width: 235px !important;
+}
+
+.campo_fecha{
+  background: white !important;
+  cursor: pointer !important;
+  width: 90px !important;
+}
+
+.campo_fecha2{
+  background: white !important;
+  cursor: pointer !important;
+  width: 150px !important;
+}
+
+.campo_fechas{
+ background: white !important;   
+ cursor: pointer !important;   
+}
+
+.editar{
+    cursor:pointer !important; 
+    cursor: hand !important;
+}
+
+.eliminar{
+    cursor:pointer; 
+    cursor: hand;
+}
+
+.reactivar{
+    cursor:pointer !important; 
+    cursor: hand !important;
+}
+
+.cambiar{
+    cursor:pointer !important; 
+    cursor: hand !important;
+}
+
+.campo_moneda{
+    text-align: right;   
+}
+
+.ancho_columna_precio{
+    width: 110px; 
+}
+
+.campo_cadena{
+    text-align: center; 
+}
+
+.ancho_col{
+    width: 110px;
+}
+
+.ancho_columna12{
+  width: 130px !important;
+}
+
+.input_codigo_usuario{
+  width: 100px !important;
+}
+
+.float_permisos {
+    float : none !important;
+}
+
+.campo_ruc {
+    width: 105px !important;
+}
+
+
+.campo_apellido {
+    width: 115px !important; 
+}
+
+.campo_pnr {
+    width: 105px !important;
+}
+.campo_id_reserva {
+    width: 90px !important; 
+    
+}
+
+.campo_fecha3 {
+    width: 90px !important; 
+}
+
+
+
+.detalle_penalidad th {
+   background-color: #f3f4f5 !important;
+   text-align: center;
+}
+
+
+.label_det_pen {
+  width:180px  !important;  
+    
+}
+
+.flotante_izq {
+    float : left !important;
+    margin-left: 15px !important;
+    border : 0px !important;
+    padding : 0px !important;
+    width:  16% !important;
+    max-width: 100px !important;
+}
+
+#campo_apellido_osce {
+    margin-right: 10px;
+}
+
+.boton_top {
+    margin-top: 20px;
+}
+
+.margen_derecho{
+    margin-right: 20px;
+}
+
+
+
+.float_left {
+     float : left !important;
+}
+
+.texto_centro{
+    text-align: center !important;
+}
+
+.ancho80{
+    width: 100px !important;
+    padding: 0px !important;
+    margin :  0px !important;
+    
+}
+.margen10 {
+    margin-right:10px;
+    
+}
+.float_right{
+    float: right !important;
+}
+ 
+.ancho55{
+  width: 60px !important;
+    padding: 0px !important;
+    margin :  0px !important; 
+    display: inline;
+}
+.ancho50{
+  width: 50px !important;
+    padding: 0px !important;
+    margin :  0px !important; 
+    display: inline;
+}
+.ancho70{
+  width: 70px !important;
+    padding: 0px !important;
+    margin :  0px !important; 
+    display: inline;
+}
+
+.ancho120{
+    width: 125px !important;
+    padding: 0px !important;
+    margin :  0px !important;
+    
+}
+
+#modal_nuevo_penalidad_osce {
+    padding-bottom: 0px !important;
+}
+
+.texto_izq {
+   text-align: left !important; 
+}
+
+.texto_der {
+    text-align : right !important;
+}
+
+.oculto {
+    display: none;
+}
+
+.red{
+    color: red;
+    
+}
+.negrita{
+    font-weight: bold;
+}
+
+.float_left{
+    float: left !important;
+}
+
+.ancho_grupo{
+    width: 300px !important; 
+   
+}
+
+.ancho_grupo2{
+    width: 580px !important;
+}
+.ancho_grupo3{
+    width: 870px !important;
+}
+
+.margen50{
+    margin-left: 30px !important;
+}
+
+
+
+
+
+@media (min-width: 1160px) {
+.ancho_grupo100{
+   width: 100px; 
+}
+
+.ancho_grupo50{
+   width: 50px; 
+}
+
+
+.ancho_grupo120{
+   width: 120px; 
+}
+
+.ancho_grupo95{
+   width: 95px; 
+}
+
+.ancho_grupo70{
+   width: 70px; 
+}
+
+.ancho_grupo125{
+   width: 130px; 
+}
+
+.ancho_grupo300{
+   width: 300px; 
+}
+
+.ancho_grupo500{
+   width: 500px; 
+}
+
+.disp-inline{
+  display: inline !important;   
+}
+
+.flotar_der_grupo{
+    float: right;
+}
+
+.margen_der_grupo{
+    margin-right: 40px;
+}
+
+.margen_der_grupo35{
+    margin-right: 35px;
+}
+
+.margen_der_grupo45{
+    margin-right: 45px;
+}
+
+.ancho_grupo150{
+   width: 150px; 
+}
+
+}
+
+@media print {
+    .no-print {display:none;}
+
+    .print{
+        color: black !important;
+    }
+}
+
+.alinear_texto_centro{
+  text-align: center;   
+}
+
+.alinear_texto_derecha{
+  text-align: right;   
+}
+
+.margen_izq_grupo{
+    margin-left: 40px;
+}
+
+.campo_texto{
+    width: 120px !important; 
+}
+
+.campo_texto2{
+    width: 200px !important; 
+}
+
+.alto_fila{
+  height: 110px;  
+}
+
+.alto_medio{
+    
+  height: 50px;  
+}
+
+.campo_hora2{
+background-color: #BC1010;
+padding: 1px 6px;
+border-radius: 4px;
+color: #FFF;
+margin-left: 16px;
+position: absolute;
+}
+
+ .campo_fecha_F{
+  background: white !important;
+  cursor: pointer !important;
+  width: 165px !important;
+}
+
+ .campo_hora{
+  background: white !important;
+  cursor: pointer !important;
+  width: 70px !important;
+}
+ 
+.modulo{
+background-color: #BC1010;
+padding: 1px 6px;
+border-radius: 4px;
+color: #FFF;
+margin-left: 16px;
+position: absolute;
+}
+
+
+.modulo::before {
+
+    content: "";
+    border-width: 8px;
+    border-style: solid;
+    border-color: transparent #BC1010 transparent transparent;
+    left: -16px;
+    position: absolute;
+    top: 3px;
+
+}
+
+
+p.final {
+    text-align: center;
+    color: #555;
+}
+
+.menu-fixed {
+	position: absolute;
+	z-index:1000;
+	top: auto;
+    left:auto;
+	margin-left:0px;
+}
+    
+.propio-resumen{
+  background: white !important;
+  cursor: pointer !important;
+  width: 120px !important;
+}    
+
+.propio {
+  width: 205px !important;
+}
+
+.campo-dia{
+    width: 105px !important;
+}
+
+.modal-lg{
+    width: 100%;
+    max-width: 1400px !important;
+}
+
+table tr th{
+    color:black;
+    text-align:center;
+    font-weight: bold;
+}
+
+.pie_tabla{
+    text-align:center;
+    font-weight: bold;
+}
+
+.black-background {background-color:#000000;}
+.white {color:#ffffff;}
+.white:hover {color:#ffffff;}
+.white:active {color:#ffffff;}
+.white:visited {color:#ffffff;}
+.white:unvisited {color:#ffffff;}
+
+#table_main tbody tr:hover td{
+    background-color: #D1D1D1;
+}

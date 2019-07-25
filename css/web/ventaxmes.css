@@ -1,0 +1,42 @@
+.table-bordered>thead>tr>th, 
+.table-bordered>tbody>tr>th, 
+.table-bordered>tfoot>tr>th, 
+.table-bordered>thead>tr>td, 
+.table-bordered>tbody>tr>td, 
+.table-bordered>tfoot>tr>td {
+    border: 1px solid #96918ed6 !important;
+}
+#tabla-ventas>tbody>tr.head>th{
+    text-align: center;
+}
+
+table#tabla-ventas.table tbody tr.t{
+	background-color: #f9f9f900;
+}
+
+table#tabla-ventas.table tbody tr.f{
+	background-color: #f9f9f94d;
+}
+
+table#tabla-ventas.table tbody tr td.h{
+	text-align: center;
+}
+
+table#tabla-ventas.table tbody tr td.n{
+	text-align: right;
+	height: 60px;
+}
+
+table#tabla-ventas.table tbody tr td.n div.pull-right{
+	padding-top: 20px;
+}
+
+select{
+	-webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    border-radius: 3px !important;
+}
+
+.badge{
+	background-color: #7777776b;
+}
